@@ -1,7 +1,9 @@
 # livro-de-receitas-dia-das-maes
 Compilado de receitas deliciosas para agradar as mães nesta data especial
 
+
 ## Receita de Muqueca 
+ [![muqueca](imgs/moqueca.jpg "muqueca")](imgs/moqueca.jpg "muqueca")
 
 ### Ingredientes
  -  1 un. Pimentão Verde
