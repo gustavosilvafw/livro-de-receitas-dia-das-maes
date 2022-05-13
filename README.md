@@ -106,3 +106,38 @@ Misture bem\
 Coloque o conteúdo da frigideira em um prato\
 Finalize com pimenta do reino\
 Servir
+
+## Risoto de camarão
+[![RisotoCamarao](imgs/risoto-de-camarao.png "Risoto Camarão")](imgs/risoto-de-camarao.png "Risoto Camarão")
+
+### Ingredientes
+
+- 400 g de camarão
+- Sal e pimenta a gosto
+- 2 litros de caldo de peixe ou de frango
+- 110 g de manteiga (20 g para fritar o camarão e 90 g para o risoto)
+- ½ cebola picada
+- 1 dente de alho picado
+- ¼ de pimenta-dedo-de-moça (opcional)
+- 150 g de tomate picado e sem semente
+- 200 g de arroz para risoto (pode ser o arbóreo, carnarolli ou outro)
+- 60 ml de vinho branco seco
+- 70 g de queijo parmesão
+- Salsinha picada
+
+### Modo de Preparo
+
+- Em uma tigela, coloque o camarão para marinar com sal e pimenta por cerca de 10 minutos
+- Leve uma panela ao fogo médio, aqueça o caldo de peixe ou de frango e mantenha-o quente
+- Em uma frigideira no fogo médio, frite os camarões na manteiga. Deixe-os bem rosadinhos dos dois lados e reserve
+- Em uma panela de fundo grosso, também em fogo médio, coloque 30 g da manteiga e refogue (sem dourar) a cebola e o alho
+- Acrescente a pimenta e o tomate, refogue-os e mexa de pouco em pouco
+- Quando os tomates estiverem quase desmanchando, acrescente o arroz e misture
+- Coloque o vinho e mexa até que o líquido da panela esteja próximo de secar
+- Junte 4 conchas do caldo de peixe (quentes) ao arroz e continue mexendo; quando o líquido da panela estiver quase secando, adicione mais 4 conchas do caldo. Repita o processo até que o arroz fique bem macio
+- Quando o arroz estiver chegando ao ponto ideal de cozimento, adicione o camarão frito (reserve alguns para finalizar o prato), misture e desligue o fogo
+- Coloque o parmesão e mexa até ele derreter; se precisar, acerte o sal e a pimenta
+- Acrescente 60 g de manteiga e mexa para tudo se incorporar
+- Deixe o risoto descansar por cerca de 2 a 3 minutos; adicione a salsinha, mexa
+- Monte o prato com alguns camarões fritos e sirva
+
